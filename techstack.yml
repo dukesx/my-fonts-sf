@@ -1,7 +1,8 @@
 repo_name: dukesx/my-fonts-sf
 report_id: c421de7f4e113314b55520ebc3e2ab19
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T14:37:13+00:00'
+timestamp: '2024-01-05T08:51:13+00:00'
 requested_by: sahibjotsaggu
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dukesx/my-fonts-sf
   detection_source: Repo Metadata
